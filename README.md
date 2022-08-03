@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @VictorJungn
-- 👀 I’m interested in learn more about programation
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me on instagram: jung@neto
+- 👋 Oi, eu sou @VictorJungn
+- 👀 Estou interessado em saber mais sobre programação
+- 🌱 Atualmente estou aprendendo Flutter
+- 💞️ Estou procurando colaborar no Flutter
+- 📫 Como me encontrar no instagram: jung@neto
 
-<!---
-VictorJungn/VictorJungn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
